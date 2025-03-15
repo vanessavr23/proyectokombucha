@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyectokombucha/static/css/main.a3d8807b.css",
-    "main.js": "/proyectokombucha/static/js/main.9e14a0cc.js",
+    "main.js": "/proyectokombucha/static/js/main.2093cd4c.js",
     "static/js/453.8bd59858.chunk.js": "/proyectokombucha/static/js/453.8bd59858.chunk.js",
     "static/media/botellas-rotar.png": "/proyectokombucha/static/media/botellas-rotar.1d18b55b52272cf149ef.png",
     "static/media/banner1.png": "/proyectokombucha/static/media/banner1.e227bb6a73f2899b25e8.png",
@@ -47,11 +47,11 @@
     "index.html": "/proyectokombucha/index.html",
     "static/media/icon-minus-small.svg": "/proyectokombucha/static/media/icon-minus-small.2d2207cebee57ff90eca1b871cd9e31c.svg",
     "main.a3d8807b.css.map": "/proyectokombucha/static/css/main.a3d8807b.css.map",
-    "main.9e14a0cc.js.map": "/proyectokombucha/static/js/main.9e14a0cc.js.map",
+    "main.2093cd4c.js.map": "/proyectokombucha/static/js/main.2093cd4c.js.map",
     "453.8bd59858.chunk.js.map": "/proyectokombucha/static/js/453.8bd59858.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3d8807b.css",
-    "static/js/main.9e14a0cc.js"
+    "static/js/main.2093cd4c.js"
   ]
 }
