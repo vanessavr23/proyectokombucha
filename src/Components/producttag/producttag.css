@@ -1,0 +1,16 @@
+.arandano{
+    @apply bg-secondary-purple-20 text-secondary-purple-100
+}
+.te-negro{
+    @apply bg-expanded-red-20 text-expanded-red-120
+}
+
+.cedron{
+    @apply bg-secondary-green-20 text-secondary-green-120
+}
+.jengibre{
+    @apply bg-expanded-turquoise-20 text-expanded-turquoise-140
+}
+.te-verde{
+    @apply bg-expanded-yellow-20 text-expanded-yellow-150
+}

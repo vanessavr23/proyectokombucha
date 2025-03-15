@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Subtitle-24-L{
+  @apply leading-8 font-bold text-[24px]
+}
+.Subtitle-24-S{
+  @apply leading-8 font-normal text-[24px]
+}
+.Subtitle-20-L{
+  @apply leading-6 font-bold text-[20px]
+}
+.Subtitle-20-M{
+  @apply leading-6 font-semibold text-[20px]
+}
+.Subtitle-20-S{
+  @apply leading-6 font-normal text-[20px]
+}
+.Subtitle-16-L{
+  @apply leading-5 font-bold text-[16px]
+}
+.Subtitle-16-M{
+  @apply leading-5 font-semibold text-[16px]
+}
+
+.Title-32{
+  @apply leading-10 font-bold text-[32px]
+}
+.Title-40{
+  @apply leading-[60px] font-bold text-[40px]
+}
+
+.Paragraph-16-S{
+  @apply leading-5 font-medium text-[16px]
+}
+.Paragraph-16-M{
+  @apply leading-5 font-semibold text-[16px]
+}
+.Paragraph-14-M{
+  @apply leading-5 font-semibold text-[14px]
+}
+.Paragraph-12-M{
+  @apply leading-4 font-semibold text-[12px]
+}
+
+@keyframes move-in-right {
+  0% {
+    transform: translateX(100%); /* Empieza fuera de la pantalla a la derecha */
+    opacity: 0; /* Opcional: empieza invisible */
+  }
+  100% {
+    transform: translateX(0); /* Termina en su posición original */
+    opacity: 1; /* Opcional: termina visible */
+  }
+}
+
+.animate-move-in-right {
+  animation: move-in-right 3000ms ease-out forwards;
+}
+
+
+

@@ -1,0 +1,15 @@
+
+.primary{
+    @apply bg-primary-primary-100 text-Grey-grey-0 justify-center flex-grow 
+    flex-shrink-0 basis-0 flex items-center py-[14px] px-4 uppercase rounded-xl
+}
+
+.secondary{
+    @apply bg-Grey-grey-0 border text-primary-primary-130 border-primary-primary-130 justify-center  
+    flex-grow flex-shrink-0 basis-0 flex items-center py-[14px] px-4 uppercase rounded-xl
+}
+
+.tiertiary{
+    @apply bg-Grey-grey-0 text-Grey-grey-100 justify-center  
+    flex-grow flex-shrink-0 basis-0 flex items-center py-[14px] px-4 uppercase rounded-xl
+}

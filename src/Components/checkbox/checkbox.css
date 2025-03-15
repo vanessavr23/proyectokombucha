@@ -1,0 +1,9 @@
+input[type="checkbox"]:checked {
+    background: var(--Secondary-purple-100, #842592);
+}
+/*
+/* Opcional: Si necesitas ocultar el checkbox original y personalizar */
+/* input[type="checkbox"]:checked + span::before {
+    content: "✔"; 
+    color: white; 
+} */
